@@ -1,0 +1,11 @@
+za_warudo = ["Mongolia", "Zimbabwe", "Spain", "Korea", "Heaven"]
+print(za_warudo)
+print(sorted(za_warudo))
+print(sorted(za_warudo,reverse=True))
+za_warudo.reverse()
+print(za_warudo)
+za_warudo.reverse()
+print(za_warudo)
+za_warudo.sort()
+print(za_warudo)
+za_warudo.sort(reverse=True)
